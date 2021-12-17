@@ -32,4 +32,3 @@ jobs:
         run: |
           python test.py
           coverage run -m test.py
-          coverage report -m
