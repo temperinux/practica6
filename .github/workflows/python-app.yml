@@ -33,4 +33,3 @@ jobs:
           python test.py
           coverage run -m test.py
           coverage report -m
-
